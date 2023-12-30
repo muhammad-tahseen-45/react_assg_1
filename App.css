@@ -1,0 +1,48 @@
+.maindive_s_1{
+  background-image: url(./img/bg-masthead.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+}
+input{
+  border: none;
+ 
+}
+.section_3{
+  display: flex;
+ 
+  justify-content:space-evenly;
+  justify-content: center;
+
+}
+img{
+  width: 100%;
+}
+.section_4_1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+ 
+}
+.section_5_1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+ 
+}
+.testomonialimage{
+  width: 100px;
+  border-radius: 100px;
+}
+.Section_7{
+  display: flex;
+  justify-content: center;
+}
+.Section_2_col{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
